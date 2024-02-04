@@ -1,4 +1,6 @@
 # TakeFit
+Takım Üyeleri
+Ensar Meşe 222016756, Ahmet Hakan Biradlı 222016725
 ## Uygulama Amacı 
 kullanıcılara günlük sağlık aktivitelerini takip etmeleri için bir platform sunmayı amaçlamaktadır. 
 Kullanıcılar, yemek tüketimi, su içme, adım sayısı ve egzersiz gibi sağlık verilerini kaydedebilecekleri, 
